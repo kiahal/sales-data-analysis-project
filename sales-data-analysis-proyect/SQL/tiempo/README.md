@@ -1,12 +1,11 @@
-# Análisis de Productos
+# Análisis
 
-Se analiza el rendimiento de los productos y categorías.
+Se analiza la evolución de las ventas en el tiempo.
 
 ## Consultas incluidas:
-- Margen por producto
-- Productos más vendidos
-- Ranking de productos por margen
-- Ingresos por categoría
+- Ventas por mes
+- Evolución mensual
+- Crecimiento porcentual
 
 ## Objetivo:
-Detectar productos estrella, oportunidades de crecimiento y optimización de rentabilidad.
+Identificar tendencias, estacionalidad y variaciones en el desempeño del negocio.
