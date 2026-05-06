@@ -16,7 +16,7 @@ Actualmente, el proyecto se encuentra en la etapa de optimización de datos y di
 5.  *   Realice la carga de datos en SQL Server, implemente consultas completas de manera rapida y eficiente.
 6.
 7.    **Data Storytelling**.
-8.* Realice un **breve video explicativo** de mi proyecto para terminar de concluir el dashboard.
+8.  *   Realice un **breve video explicativo** de mi proyecto para terminar de concluir el dashboard.
 
 ---
 
