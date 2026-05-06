@@ -12,10 +12,10 @@ Actualmente, el proyecto se encuentra en la etapa de optimización de datos y di
     *   Diseño de interfaz  funcional en **Canva** para mejorar la experiencia de usuario (UX).
     *   Construcción del dashboard en **Power BI**, optimizando el modelo de datos, relaciones y cardinalidades.
     *   Implementación de lógica de negocio mediante **DAX** para la creación de **KPIs** (Key Performance Indicators) e indicadores clave.
- 4.  **Análisis mediante SQL**
+ 4.  **Análisis mediante SQL:**
       Realice la carga de datos en SQL Server, implemente consultas completas de manera rapida y eficiente.
 
-5.   **Data Storytelling**.
+5.   **Data Storytelling:**
     *   Realice un **breve video explicativo** de mi proyecto para terminar de concluir el dashboard.
 
 ---
