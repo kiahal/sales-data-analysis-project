@@ -16,14 +16,7 @@ Actualmente, el proyecto se encuentra en la etapa de optimización de datos y di
 
 ---
 
-## English
-Comprehensive data analysis project covering everything from conceptual modeling to advanced visualization. Currently in the data optimization and visual design phase.
+5.  ### 🎥 Video de Presentación del Proyecto
+Para ver la explicación detallada con audio y el recorrido por el dashboard, hacé clic en el siguiente enlace:
 
-### Methodology & Tools:
-1.  **Data Modeling:** Designed the Entity-Relationship Diagram (ERD) in **Draw.io** to establish business logic.
-2.  **ETL & Data Management:** Manual record loading and cleaning in **Excel**, using advanced functions and commands to ensure data integrity.
-3.  **Visualization & Business Intelligence:**
-    *   "Aesthetic" and functional UI design in **Canva** to enhance User Experience (UX).
-    *   Dashboard construction in **Power BI**, optimizing the data model, relationships, and cardinalities.
-    *   Implementation of business logic using **DAX** to create **KPIs** and core metrics.
-4.  **Coming Soon:** **SQL** analysis and a final **Data Storytelling** video presentation.
+👉 [Ver video de presentación en Google Drive](https://drive.google.com/file/d/1zA-mrPpt1BzKlZtVhIikZpHpoN8Q3IHv/view?usp=drive_link)
