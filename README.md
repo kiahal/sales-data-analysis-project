@@ -25,11 +25,11 @@ Este es un proyecto integral de análisis de datos que abarca desde el modelado 
 
 ---
 
-## 🎥 Presentación del Proyecto (Video con Audio)
+## Presentación del Proyecto (Video con Audio)
 
 Para ver la explicación técnica detallada, el proceso de desarrollo y el recorrido funcional por el dashboard, hacé clic en el siguiente enlace:
 
- **[VER VIDEO DE PRESENTACIÓN EN GOOGLE DRIVE]([[TU_LINK_DE_DRIVE_AQUÍ](https://drive.google.com/file/d/1zA-mrPpt1BzKlZtVhIikZpHpoN8Q3IHv/view?usp=drive_link)])**
+**[▶️ VER VIDEO DE PRESENTACIÓN EN GOOGLE DRIVE](https://drive.google.com/file/d/1zA-mrPpt1BzKlZtVhIikZpHpoN8Q3IHv/view?usp=drive_link)**
 
 ---
 
