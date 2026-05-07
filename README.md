@@ -5,7 +5,7 @@ Este es un proyecto integral de análisis de datos que abarca desde el modelado 
 
 ---
 
-## 🛠️ Metodología y Herramientas
+##  Metodología y Herramientas
 
 ### 1. Modelado de Datos (Arquitectura)
 * **Diseño de DER:** Utilicé **Draw.io** para definir la lógica de negocio mediante un diagrama Entidad-Relación, asegurando la integridad referencial antes de la implementación.
@@ -29,7 +29,7 @@ Este es un proyecto integral de análisis de datos que abarca desde el modelado 
 
 Para ver la explicación técnica detallada, el proceso de desarrollo y el recorrido funcional por el dashboard, hacé clic en el siguiente enlace:
 
-👉 **[VER VIDEO DE PRESENTACIÓN EN GOOGLE DRIVE]([TU_LINK_DE_DRIVE_AQUÍ](https://drive.google.com/file/d/1zA-mrPpt1BzKlZtVhIikZpHpoN8Q3IHv/view?usp=drive_link))**
+ **[VER VIDEO DE PRESENTACIÓN EN GOOGLE DRIVE]([[TU_LINK_DE_DRIVE_AQUÍ](https://drive.google.com/file/d/1zA-mrPpt1BzKlZtVhIikZpHpoN8Q3IHv/view?usp=drive_link)])**
 
 ---
 
