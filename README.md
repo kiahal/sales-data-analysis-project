@@ -33,11 +33,6 @@ Para ver la explicación técnica detallada, el proceso de desarrollo y el recor
 
 ---
 
-## 📂 Contenido del Repositorio
-* `/data`: Archivos base de excel utilizados para el análisis.
-* * `/docs`: Diagrama Entidad-Relación en formato imagen y editable.
-   * * `/reports`: Analisis de las diapositivas en Power BI.
-* `/scripts`: Consultas SQL de análisis.
 ## 📂 Estructura del Repositorio
 
 Para facilitar la navegación por el proyecto, el contenido se organiza de la siguiente manera:
