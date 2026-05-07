@@ -1,5 +1,5 @@
 
-#  Sales Data Analysis: Proyecto Integral de BI & Data Engineering
+#  End-to-End Data Analytics Project
 
 Este es un proyecto integral de análisis de datos que abarca desde el modelado conceptual hasta la visualización avanzada y el storytelling. El objetivo principal fue transformar datos transaccionales crudos en una herramienta de toma de decisiones estratégica para optimizar la rentabilidad.
 
