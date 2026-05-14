@@ -42,3 +42,4 @@ Para facilitar la navegación por el proyecto, el contenido se organiza de la si
 * **`/reports`**: Aquí se encuentra el archivo de **Power BI** (`.pbix`) con el dashboard interactivo y el análisis visual.
 * **`/scripts`**: Contiene los archivos **SQL** con las consultas de transformación y análisis de datos.-
 
+---
